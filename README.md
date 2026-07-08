@@ -27,6 +27,10 @@ Contains pre-trained XML cascade classifiers provided by OpenCV, used for object
 *   `haarcascade_eye.xml` (Eye detection)
 *   `haarcascade_smile.xml` (Smile detection)
 
+### 4. `Image_Segmentation/`
+Contains projects related to segmenting and removing objects from images.
+*   **`object-removal/`**: A project combining models like SAM2 and YOLO to select and remove objects from images. Includes a frontend app and backend services for processing.
+
 ## 🛠️ Prerequisites
 
 To run the code in this repository, you need to have Python installed along with the following libraries:

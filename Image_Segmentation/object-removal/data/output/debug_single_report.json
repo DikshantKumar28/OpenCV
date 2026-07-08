@@ -1,0 +1,9 @@
+{
+  "method_used": "opencv_strong",
+  "mask_area_ratio": 0.005576611516599269,
+  "mean_difference_inside_mask": 101.27568054199219,
+  "warning": "Selected object is small. OpenCV Strong inpainting is used.",
+  "selected_pixel_count": 6065,
+  "ai_available": false,
+  "debug": {}
+}

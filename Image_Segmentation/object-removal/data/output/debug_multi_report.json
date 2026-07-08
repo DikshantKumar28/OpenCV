@@ -1,0 +1,14 @@
+{
+  "method_used": "ai_required",
+  "mask_area_ratio": 0.005576611516599269,
+  "valid_reference_count": 0,
+  "reference_quality_score": 0.0,
+  "fallback_used": true,
+  "warning": "",
+  "mask_white_pixels": 6065,
+  "image_shape": [
+    851,
+    1278,
+    3
+  ]
+}
